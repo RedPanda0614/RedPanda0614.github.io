@@ -1,0 +1,105 @@
+{
+  "fetched_at": "2026-09-24T01:38:04.814701+00:00",
+  "repositories": [
+    {
+      "name": "Test-Toolchains",
+      "html_url": "https://github.com/RedPanda0614/Test-Toolchains",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "fork": false,
+      "updated_at": "2026-09-11T20:32:24Z",
+      "archived": false
+    },
+    {
+      "name": "skills-communicate-using-markdown",
+      "html_url": "https://github.com/RedPanda0614/skills-communicate-using-markdown",
+      "description": "Exercise: Communicate using Markdown",
+      "language": null,
+      "stargazers_count": 0,
+      "fork": false,
+      "updated_at": "2026-09-11T20:30:37Z",
+      "archived": false
+    },
+    {
+      "name": "skills-introduction-to-github",
+      "html_url": "https://github.com/RedPanda0614/skills-introduction-to-github",
+      "description": "Exercise: Introduction to GitHub",
+      "language": null,
+      "stargazers_count": 0,
+      "fork": false,
+      "updated_at": "2026-09-11T20:11:03Z",
+      "archived": false
+    },
+    {
+      "name": "Booklist-of-2024",
+      "html_url": "https://github.com/RedPanda0614/Booklist-of-2024",
+      "description": "卡尔维诺、黑塞、伍尔夫与费兰特，拥抱真实的一年。",
+      "language": null,
+      "stargazers_count": 0,
+      "fork": false,
+      "updated_at": "2026-07-14T09:16:08Z",
+      "archived": false
+    },
+    {
+      "name": "oc-sheet",
+      "html_url": "https://github.com/RedPanda0614/oc-sheet",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 2,
+      "fork": false,
+      "updated_at": "2026-05-01T03:49:03Z",
+      "archived": false
+    },
+    {
+      "name": "MovieRoundTable-DB",
+      "html_url": "https://github.com/RedPanda0614/MovieRoundTable-DB",
+      "description": "This project is a Film Information Management System built on IMDb’s open dataset (with additional data from Douban Top250). It provides a comprehensive platform for users, film professionals, and administrators to browse, query, evaluate, and manage film-related information.",
+      "language": "HTML",
+      "stargazers_count": 2,
+      "fork": false,
+      "updated_at": "2026-01-30T08:44:05Z",
+      "archived": false
+    },
+    {
+      "name": "BirdStopover-xgboost",
+      "html_url": "https://github.com/RedPanda0614/BirdStopover-xgboost",
+      "description": "XGBoost-based prediction of bird migration stopover density (2016–2020) with SHAP analysis of environmental factors.",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 1,
+      "fork": false,
+      "updated_at": "2025-09-17T18:56:56Z",
+      "archived": false
+    },
+    {
+      "name": "PeoplesDaily-RAG",
+      "html_url": "https://github.com/RedPanda0614/PeoplesDaily-RAG",
+      "description": "RAG system on PeoplesDaily",
+      "language": "Python",
+      "stargazers_count": 3,
+      "fork": false,
+      "updated_at": "2025-09-16T19:19:32Z",
+      "archived": false
+    },
+    {
+      "name": "MelodyMuse",
+      "html_url": "https://github.com/RedPanda0614/MelodyMuse",
+      "description": null,
+      "language": "HTML",
+      "stargazers_count": 1,
+      "fork": false,
+      "updated_at": "2025-09-16T19:19:08Z",
+      "archived": false
+    },
+    {
+      "name": "Prompts-for-GPT-4-grading",
+      "html_url": "https://github.com/RedPanda0614/Prompts-for-GPT-4-grading",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "fork": false,
+      "updated_at": "2024-05-20T13:45:57Z",
+      "archived": false
+    }
+  ]
+}
