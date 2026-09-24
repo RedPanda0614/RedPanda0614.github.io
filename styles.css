@@ -16,9 +16,9 @@ main{background:var(--bg)}
 .avatar-frame{border-radius:8px;transform:rotate(-4deg);background:#21182e;box-shadow:4px 4px 0 #8a3865}
 .avatar-frame img{border-radius:3px}
 .contact-links .cv-link{border-radius:2px;box-shadow:3px 3px 0 #765069}
-.robot-scene{margin-top:30px;max-width:250px;border:1px solid #74435f;box-shadow:4px 4px 0 #302039;position:relative}
-.robot-scene img{display:block;width:100%;height:auto;image-rendering:pixelated}
-.robot-scene:after{content:'';position:absolute;left:0;right:0;bottom:-9px;height:4px;background:repeating-linear-gradient(90deg,var(--pink) 0 12px,transparent 12px 16px,var(--accent) 16px 20px,transparent 20px 32px);opacity:.65}
+.owl-scene{margin-top:30px;max-width:250px;border:1px solid #74435f;box-shadow:4px 4px 0 #302039;position:relative}
+.owl-scene img{display:block;width:100%;height:auto;image-rendering:pixelated}
+.owl-scene:after{content:'';position:absolute;left:0;right:0;bottom:-9px;height:4px;background:repeating-linear-gradient(90deg,var(--pink) 0 12px,transparent 12px 16px,var(--accent) 16px 20px,transparent 20px 32px);opacity:.65}
 .section-nav{border-bottom-color:#79405e}
 .section-nav a:after{box-shadow:0 2px 8px #54f1e033}
 .section-heading:after{content:'';width:28px;height:12px;margin-left:auto;background:conic-gradient(from 90deg,var(--pink) 25%,transparent 0 50%,var(--accent) 0 75%,transparent 0);background-size:12px 12px;opacity:.75}
@@ -43,7 +43,7 @@ footer{border-top-color:#79405e}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::after{transition:none!important}.project-card:hover{transform:none}}
 @media print{.layout{display:block;padding:0}.profile{position:static;margin-bottom:30px}.profile h1{font-size:3rem}.avatar-frame,.section-nav,.contact-links,.update-note{display:none}body{background:#fff}.paper,.job,.project-card,.school{break-inside:avoid}section{margin-bottom:25px}.project-grid{display:block}.project-card{margin-bottom:15px}details>summary{display:none}details> :not(summary){display:block!important}}
 
-@media(max-width:800px){.robot-scene{grid-column:1/-1;width:250px;max-width:100%;margin:0 0 24px;justify-self:start}.contact-links{margin-bottom:22px}.avatar-frame{border-radius:6px}.avatar-frame img{border-radius:2px}}
-@media(max-width:480px){.robot-scene{width:220px}.avatar-frame{box-shadow:3px 3px 0 #8a3865}.section-nav{column-gap:8px}.section-nav a{font-size:.75rem}}
-@media print{:root{--bg:#fff;--ink:#111;--muted:#333;--line:#bbb;--accent:#222}body{background:#fff;border:0}main{background:#fff}.robot-scene{display:none}.profile h1{text-shadow:none}.project-card{background:#fff!important;box-shadow:none;border:1px solid #aaa}.project-card *{color:#222!important}.venue,.section-count{background:#fff;color:#222;border-color:#aaa}.section-heading:after{display:none}}
-@media(min-width:801px) and (max-height:800px){.profile{top:24px;padding-top:0}.avatar-frame{width:86px;height:86px;margin-bottom:24px}.profile h1{margin-bottom:20px}.bio{margin-top:16px}.contact-links{margin-top:18px}.robot-scene{width:210px;margin-top:24px}}
+@media(max-width:800px){.owl-scene{grid-column:1/-1;width:250px;max-width:100%;margin:0 0 24px;justify-self:start}.contact-links{margin-bottom:22px}.avatar-frame{border-radius:6px}.avatar-frame img{border-radius:2px}}
+@media(max-width:480px){.owl-scene{width:220px}.avatar-frame{box-shadow:3px 3px 0 #8a3865}.section-nav{column-gap:8px}.section-nav a{font-size:.75rem}}
+@media print{:root{--bg:#fff;--ink:#111;--muted:#333;--line:#bbb;--accent:#222}body{background:#fff;border:0}main{background:#fff}.owl-scene{display:none}.profile h1{text-shadow:none}.project-card{background:#fff!important;box-shadow:none;border:1px solid #aaa}.project-card *{color:#222!important}.venue,.section-count{background:#fff;color:#222;border-color:#aaa}.section-heading:after{display:none}}
+@media(min-width:801px) and (max-height:800px){.profile{top:24px;padding-top:0}.avatar-frame{width:86px;height:86px;margin-bottom:24px}.profile h1{margin-bottom:20px}.bio{margin-top:16px}.contact-links{margin-top:18px}.owl-scene{width:210px;margin-top:24px}}

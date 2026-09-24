@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 150" shape-rendering="crispEdges">
-<title>A pixel robot at a neon-lit bar</title>
+<title>A little pixel owl at a neon-lit bar</title>
 <rect width="250" height="150" fill="#100d1c"/>
 <path d="M0 24h250M0 52h250M0 80h250M26 0v24m42 0v28m42-52v24m42 0v28m42-52v24m42 0v28M26 52v28m84-28v28m84-28v28" stroke="#251b35" fill="none"/>
 <!-- Red neon wires across the back wall. -->
@@ -17,22 +17,28 @@
 <path d="M10 61h7v8h-7z" fill="#54f1e0"/>
 <path d="M30 66h7v5h-7z" fill="#ffe66d"/>
 <path d="M3 76h45v4H3z" fill="#a2607b"/>
-<!-- Original robot bartender. -->
-<path d="M104 45h4V34h4v11h4v7h-12z" fill="#a998c9"/>
-<rect x="106" y="30" width="8" height="5" fill="#ffe66d"/>
-<path d="M88 51h45v5h6v35h-6v5H88v-5h-6V56h6z" fill="#675184"/>
-<path d="M90 54h40v5H90zM85 60h5v24h-5z" fill="#c3aedc"/>
-<rect x="91" y="62" width="39" height="22" fill="#151025"/>
-<path d="M97 68h8v6h-8zm19 0h8v6h-8z" fill="#54f1e0"/>
-<path d="M106 78h10v2h-10z" fill="#d8fff2"/>
-<rect x="77" y="65" width="5" height="13" fill="#ff4fa3"/>
-<rect x="139" y="65" width="5" height="13" fill="#ff4fa3"/>
-<path d="M102 96h18v6h14v18H86v-18h16z" fill="#8d71a9"/>
-<rect x="102" y="106" width="17" height="10" fill="#342840"/>
-<rect x="105" y="109" width="4" height="4" fill="#ff4fa3"/>
-<rect x="112" y="109" width="4" height="4" fill="#ffe66d"/>
-<path d="M83 99h-7v11H61v8h24v-6h4M136 100h8v10h18v8h-26" fill="#675184"/>
-<path d="M60 109h8v6h-8zm96 0h9v7h-9z" fill="#c3aedc"/>
+<!-- A round, tufted owl with cream facial discs and small folded wings. -->
+<path d="M87 79h48v7h8v27h-7v7H86v-7h-8V86h9z" fill="#493149"/>
+<path d="M90 82h42v9h6v21h-8v7H93v-7h-8V91h5z" fill="#98749b"/>
+<path d="M78 39h7v7h9v6h34v-6h9v-7h7v18h6v30h-6v9h-9v5H87v-5h-9v-9h-6V57h6z" fill="#493149"/>
+<path d="M80 46h5v9h11v4h30v-4h11v-9h5v17h4v21h-6v10h-9v4H91v-4H82V84h-6V63h4z" fill="#b18daf"/>
+<path d="M80 57h6v7h-6zm56 0h6v7h-6z" fill="#f2a9c5"/>
+<!-- Soft, stepped facial discs. -->
+<path d="M87 63h17v5h7v19h-6v7H88v-5h-6V69h5zM118 63h17v6h6v20h-6v5h-17v-7h-7V68h7z" fill="#ffe9cf"/>
+<path d="M89 67h12v4h5v13h-5v5H89v-5h-4V71h4zM122 67h12v4h4v13h-4v5h-12v-5h-5V71h5z" fill="#d59a63"/>
+<path d="M91 69h9v4h3v10h-3v3h-9v-3h-3V73h3zM123 69h9v4h3v10h-3v3h-9v-3h-3V73h3z" fill="#211729"/>
+<path d="M91 71h5v5h-5zm32 0h5v5h-5z" fill="#fff8ed"/>
+<path d="M99 82h3v3h-3zm32 0h3v3h-3z" fill="#54f1e0"/>
+<!-- Beak, blush, and chest feathers. -->
+<path d="M107 85h9v5h-3v5h-3v-5h-3z" fill="#ffe18a"/>
+<path d="M84 88h6v3h-6zm49 0h6v3h-6z" fill="#e89bb2"/>
+<path d="M98 101h4v3h4v-3h4v7h-4v3h-4v-3h-4zm17 0h4v3h4v-3h4v7h-4v3h-4v-3h-4z" fill="#dbc0bc"/>
+<!-- Folded wings catch pink and turquoise neon. -->
+<path d="M78 92h8v9h5v16h-6v-5h-5v-7h-5v-8h3z" fill="#795277"/>
+<path d="M137 92h8v5h3v8h-5v7h-5v5h-6v-16h5z" fill="#795277"/>
+<path d="M77 95h3v9h-3zm4 11h3v6h-3z" fill="#f18cae"/>
+<path d="M143 95h3v9h-3zm-4 11h3v6h-3z" fill="#70d6ca"/>
+<path d="M92 119h14v5H90v-3h2zm26 0h14v2h2v3h-16z" fill="#efc47c"/>
 <!-- Glass on a reflective bar counter. -->
 <path d="M176 101h23l-9 12v9h7v3h-19v-3h8v-9z" fill="#9aa4c3"/>
 <path d="M180 103h15l-6 7h-3z" fill="#ff4fa3"/>

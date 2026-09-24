@@ -43,4 +43,4 @@
 
 ## 视觉主题
 
-午夜街机：深紫底色、粉色与青色霓虹、少量柠檬黄；正文区域保持纯色以方便阅读。`assets/robot-bar.svg` 是原创像素机器人吧台插画，`assets/robot-icon.svg` 是配套标签页图标。灵感参考 The Red Strings Club 的赛博酒吧氛围（https://deconstructeam.com/），未使用游戏截图或角色素材。
+午夜街机：深紫底色、粉色与青色霓虹、少量柠檬黄；正文区域保持纯色以方便阅读。`assets/owl-bar.svg` 是原创像素猫头鹰吧台插画，`assets/owl-icon.svg` 是配套标签页图标。灵感参考 The Red Strings Club 的赛博酒吧氛围（https://deconstructeam.com/），未使用游戏截图或角色素材。
