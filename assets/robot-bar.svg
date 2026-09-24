@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 150" shape-rendering="crispEdges">
+<title>A pixel robot at a neon-lit bar</title>
+<rect width="250" height="150" fill="#100d1c"/>
+<path d="M0 24h250M0 52h250M0 80h250M26 0v24m42 0v28m42-52v24m42 0v28m42-52v24m42 0v28M26 52v28m84-28v28m84-28v28" stroke="#251b35" fill="none"/>
+<!-- Red neon wires across the back wall. -->
+<path d="M0 14h70v22h80V10h100M0 89h56V62h24" stroke="#442035" stroke-width="7" fill="none"/>
+<path d="M0 14h70v22h80V10h100M0 89h56V62h24" stroke="#fb537c" stroke-width="2" fill="none"/>
+<path d="M2 12h66M152 8h96" stroke="#ffc2d2" stroke-width="1"/>
+<!-- Window and city lights. -->
+<rect x="174" y="29" width="65" height="65" fill="#302441"/>
+<rect x="178" y="33" width="57" height="57" fill="#171527"/>
+<path d="M179 70h8V49h12v15h13V42h15v27h8v21h-56z" fill="#39324c"/>
+<path d="M191 52v5m0 7v5m25-22v5m6 6v5m-17 7v5m-19 2v5m41-7v5" stroke="#54f1e0" stroke-width="3"/>
+<path d="M180 90h55M207 33v57" stroke="#574765" stroke-width="2"/>
+<!-- Bottles and shelf. -->
+<path d="M11 48h5v8h4v18H7V56h4zm20 7h5v8h4v11H27V63h4z" fill="#35675f"/>
+<path d="M10 61h7v8h-7z" fill="#54f1e0"/>
+<path d="M30 66h7v5h-7z" fill="#ffe66d"/>
+<path d="M3 76h45v4H3z" fill="#a2607b"/>
+<!-- Original robot bartender. -->
+<path d="M104 45h4V34h4v11h4v7h-12z" fill="#a998c9"/>
+<rect x="106" y="30" width="8" height="5" fill="#ffe66d"/>
+<path d="M88 51h45v5h6v35h-6v5H88v-5h-6V56h6z" fill="#675184"/>
+<path d="M90 54h40v5H90zM85 60h5v24h-5z" fill="#c3aedc"/>
+<rect x="91" y="62" width="39" height="22" fill="#151025"/>
+<path d="M97 68h8v6h-8zm19 0h8v6h-8z" fill="#54f1e0"/>
+<path d="M106 78h10v2h-10z" fill="#d8fff2"/>
+<rect x="77" y="65" width="5" height="13" fill="#ff4fa3"/>
+<rect x="139" y="65" width="5" height="13" fill="#ff4fa3"/>
+<path d="M102 96h18v6h14v18H86v-18h16z" fill="#8d71a9"/>
+<rect x="102" y="106" width="17" height="10" fill="#342840"/>
+<rect x="105" y="109" width="4" height="4" fill="#ff4fa3"/>
+<rect x="112" y="109" width="4" height="4" fill="#ffe66d"/>
+<path d="M83 99h-7v11H61v8h24v-6h4M136 100h8v10h18v8h-26" fill="#675184"/>
+<path d="M60 109h8v6h-8zm96 0h9v7h-9z" fill="#c3aedc"/>
+<!-- Glass on a reflective bar counter. -->
+<path d="M176 101h23l-9 12v9h7v3h-19v-3h8v-9z" fill="#9aa4c3"/>
+<path d="M180 103h15l-6 7h-3z" fill="#ff4fa3"/>
+<path d="M190 93h3v11h-3" fill="#ffe66d"/>
+<rect x="0" y="124" width="250" height="5" fill="#c17791"/>
+<rect x="0" y="129" width="250" height="21" fill="#271b32"/>
+<rect x="0" y="129" width="250" height="2" fill="#ff4fa3"/>
+<path d="M13 140h37m37 0h22m56 0h62" stroke="#663047" stroke-width="3"/>
+<path d="M15 136h26m137 0h16" stroke="#54f1e0" stroke-width="1"/>
+</svg>

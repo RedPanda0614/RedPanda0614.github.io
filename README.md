@@ -35,8 +35,12 @@
 - 作者顺序、题目与会议信息经 Crossref DOI 元数据核对。
 - 项目说明依据公开 README。表情准确率采用简历提供的整体实验结果；People’s Daily README 的不同段落含不同 EM 指标，因此主页未摘取该指标。
 
-网页未使用外部字体、跟踪脚本或第三方分析服务。外部请求仅用于读取 GitHub 公开仓库，点击外部链接时会前往相应网站。
+网页不请求外部字体服务，也不含跟踪脚本或第三方分析服务。外部请求仅用于读取 GitHub 公开仓库，点击外部链接时会前往相应网站。
 
 ## 字体
 
-全站优先使用访问设备上的 Aptos，其次使用 Calibri；若两者均未安装，则依次回退到 Segoe UI、Arial 和系统无衬线字体。网站不分发字体文件。
+全站优先使用访问设备上的 Aptos，其次使用 Calibri；若两者均未安装，则依次回退到 Segoe UI、Arial 和系统无衬线字体。名字使用随站点托管的 Fredoka 粗圆体，许可证见 `assets/fonts/OFL.txt`。
+
+## 视觉主题
+
+午夜街机：深紫底色、粉色与青色霓虹、少量柠檬黄；正文区域保持纯色以方便阅读。`assets/robot-bar.svg` 是原创像素机器人吧台插画，`assets/robot-icon.svg` 是配套标签页图标。灵感参考 The Red Strings Club 的赛博酒吧氛围（https://deconstructeam.com/），未使用游戏截图或角色素材。
